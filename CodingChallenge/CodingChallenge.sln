@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge", "CodingChallenge\CodingChallenge.csproj", "{6F944DC8-B380-42BE-A82C-A438A2955E27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallengeTest", "CodingChallengeTest\CodingChallengeTest.csproj", "{B931DC1B-D101-467D-929A-66D27151B65B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F944DC8-B380-42BE-A82C-A438A2955E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F944DC8-B380-42BE-A82C-A438A2955E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F944DC8-B380-42BE-A82C-A438A2955E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F944DC8-B380-42BE-A82C-A438A2955E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B931DC1B-D101-467D-929A-66D27151B65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B931DC1B-D101-467D-929A-66D27151B65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B931DC1B-D101-467D-929A-66D27151B65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B931DC1B-D101-467D-929A-66D27151B65B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
